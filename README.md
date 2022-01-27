@@ -1,2 +1,3 @@
 # DIO-GFTStart-Java
-Documentação disponibilizada Jabba pelo professor (DIO): https://github.com/shyiko/jabba
+Documentação Jabba disponibilizada pelo professor Daniel Hatanaka (DIO): https://github.com/shyiko/jabba
+(Jabba disponibiliza todas as versões de Java)
